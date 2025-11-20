@@ -40,10 +40,10 @@ If this prints a response, Ollama is working.
 ### 2.1 Clone / unzip
 If using Git:
 
-    git clone <your-repo-url> ai_report_agent
+    git clone https://github.com/Jing-Jing-Gao/genai-report-agent.git ai_report_agent
     cd ai_report_agent
 
-If using a ZIP, unzip it and `cd' into the `ai_report_agent` folder.
+If using a ZIP, unzip it and `cd` into the `ai_report_agent` folder.
 
 ### 2.2 Create virtual environment
     
