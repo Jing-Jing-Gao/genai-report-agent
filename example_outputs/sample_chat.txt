@@ -1,0 +1,17 @@
+You: What’s new in AI today?
+Agent: According to the report, some recent developments in the AI industry include:
+
+* A deepfake site called "nudify" was fined £55,000 for lacking age checks.
+* Several porn sites are under investigation.
+* A pioneer in AI is quitting Meta after 12 years due to disagreements over the technology's future.
+* Nvidia saw its shares rise after strong results eased concerns about an 'AI bubble'.
+* Cloudflare apologized for an outage that took down X and ChatGPT.
+
+These seem to be some of the most notable recent updates in the AI space!
+
+You: Which organizations are mentioned?
+Agent: According to the report, the following organizations are mentioned:
+
+1. Meta
+2. Nvidia
+3. Cloudflare
